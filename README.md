@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** [Blue](https://github.com/cybersecurity-dev/awesome-purple-teaming) Teaming Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Blue](https://github.com/cybersecurity-dev/awesome-blue-teaming) Teaming Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiX2vPB0Y0Qwt0fFvNY9fKgT&si=qtPGnoYjPYoUO9LV)
