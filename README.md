@@ -36,6 +36,8 @@
 #### Video Series
 
 ### Certifications
+* [CCDL1 by `CyberDefenders`](https://cyberdefenders.org/certifications/certified-cyberdefender-level1/)
+* [CCDL2 by `CyberDefenders`](https://cyberdefenders.org/certifications/certified-cyberdefender-level2/)
 
 ### Other Awesome Blue Team 
 * [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam)
